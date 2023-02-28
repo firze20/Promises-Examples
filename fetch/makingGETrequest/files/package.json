@@ -1,0 +1,18 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "structured": "^0.1.2"
+  }
+}

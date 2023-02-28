@@ -1,0 +1,16 @@
+{
+  "name": "libary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "rewire": "^6.0.0"
+  }
+}

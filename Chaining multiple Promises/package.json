@@ -1,0 +1,21 @@
+{
+  "name": "chaining-multiple-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "fs": "^0.0.1-security",
+    "mocha": "^9.2.2",
+    "structured": "^0.1.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "tsconfig-paths": "^3.14.1"
+  }
+}
