@@ -1,0 +1,3 @@
+[submodule "ASYNC/asyncFunctions/Promises-Examples"]
+	path = ASYNC/asyncFunctions/Promises-Examples
+	url = https://github.com/firze20/Promises-Examples
